@@ -1,0 +1,20 @@
+{
+  "name": "scalex-backend",
+  "version": "1.0.0",
+  "description": "ScaleX Backend for Store Book Details and retrive",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahantesh",
+  "license": "ISC",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "nodemon": "^3.0.3",
+    "xlsx": "^0.18.5"
+  }
+}
